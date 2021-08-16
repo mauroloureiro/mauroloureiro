@@ -21,7 +21,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Adobe XD](https://img.shields.io/badge/-AdobeXD-05122A?style=flat&logo=adobe-xd)&nbsp;
-![Android Studio](https://img.shields.io/badge/-AdobeXD-05122A?style=flat&logo=android-studio)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android Studio-05122A?style=flat&logo=android-studio)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
